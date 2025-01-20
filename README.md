@@ -4,22 +4,27 @@ Welcome to **YOLO TASK**, the repository for YOLO React Native practical demo ta
 
 ---
 
-## Screenshots
-
-<div style="display: flex; flex-direction: 'row';">
-<img src="./screenshot/1.png" width="30%">
-<img src="./screenshot/2.png" width="30%">
-<img src="./screenshot/3.png" width="30%">
-<img src="./screenshot/4.png" width="30%">
-<img src="./screenshot/5.png" width="30%">
-<img src="./screenshot/6.png" width="30%">
-</div>
-
 ## Demo
 
 <div style="display: flex; flex-direction: 'row';">
 <img src="./screenshot/yolo-task.gif" width=30%>
+
+
 </div>
+
+## Screenshots
+
+<div style="display: flex; flex-direction: 'row';">
+<img src="./screenshot/6.png" >
+<img src="./screenshot/1.png" width="30%">
+<img src="./screenshot/2.png" width="30%">
+<img src="./screenshot/4.png" width="30%">
+<img src="./screenshot/3.png" width="30%">
+<img src="./screenshot/7.png" width="30%">
+<img src="./screenshot/5.png" width="30%">
+</div>
+
+
 
 ---
 
